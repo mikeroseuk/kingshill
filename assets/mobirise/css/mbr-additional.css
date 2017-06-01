@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
+
+
+
+
+
+
+#menu-5 .navbar-toggler {
+  color: #000;
+}
+#menu-5 .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+}
+#slider-6 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
+}
+#slider-6 H2 {
+  color: #ffffff;
+}
+#slider-6 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
+}
+#content5-9 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-7 .lead P {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#msg-box5-7 .mbr-section-title {
+  color: #ffffff;
+}
+#contacts3-3 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts3-3 STRONG {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  color: #dddddd;
+}
+#contacts3-3 UL {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-8 P {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+}
