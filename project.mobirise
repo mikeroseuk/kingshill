@@ -349,7 +349,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 KingsHill Holidays Ltd. All rights reserved. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Terms of Use &nbsp; | &nbsp;Privacy Policy<br>Company registered in England &amp; Wales at above address, no. 03799066.",
+          "text": "Copyright © 2017 KingsHill Holidays Ltd. All rights reserved.<br>Terms of Use &nbsp; | &nbsp;Privacy Policy &nbsp; &nbsp;| &nbsp; Company registered in England &amp; Wales at above address, no. 03799066.",
           "_styles": {
             "P": {
               "text-align": "center",
